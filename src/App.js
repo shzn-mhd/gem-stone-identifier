@@ -1,4 +1,3 @@
-// Frontend (React)
 import React, { useState } from 'react';
 
 function App() {
